@@ -1,0 +1,6 @@
+torch
+torchvision
+numpy
+monai
+tensorboardX
+efficientunet
