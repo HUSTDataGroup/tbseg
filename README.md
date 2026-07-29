@@ -2,7 +2,6 @@
 
 This repository holds the official implementation of the paper: **Anatomy-Domain Disentanglement With Heavy-Tailed Variational Inference for Robust Cross-Domain Medical Image Segmentation**.
 
-## 🚀 Getting Started
 
 ## 🙋‍♀️ Feedback and Contact
 Shuaichao Du: [2420410171@stu.hrbust.edu.cn](2420410171@stu.hrbust.edu.cn)
