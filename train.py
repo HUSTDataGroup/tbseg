@@ -93,7 +93,7 @@ class Trainer:
 
         self.lr_scheduler = torch.optim.lr_scheduler.StepLR(
             self.optimizer,
-            step_size=300,
+            step_size=args.lr_drop,
             gamma=0.1,
         )
 
